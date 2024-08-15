@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdio.h>
-#include "../include/ReadingSTL.h"
+#include "ReadingSTL.h"
 
 int main(int argc, char** argv){
     STLFile stl;
