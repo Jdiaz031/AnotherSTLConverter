@@ -3,7 +3,7 @@
 #include <string>
 #include<fstream>
 #include<sstream>
-#include "../include/ReadingSTL.h"
+#include "ReadingSTL.h"
 
 int STLFile::FacetCount(std::string STL_FILEPATH){
     std::ifstream BIN_READ(STL_FILEPATH,std::ios::binary);
