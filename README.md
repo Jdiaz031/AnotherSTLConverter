@@ -4,7 +4,7 @@ the file you are looking to convert and where to save the converted version.
 
 #Install
 ```
-git clone
+git clone https://github.com/Jdiaz031/AnotherSTLConverter.git
 cd AnotherSTLConverter
 g++ main_desktop.cpp ReadingSTL.cpp ReadingSTL.h -o convertSTL
 sudo mv convertSTL /bin/
